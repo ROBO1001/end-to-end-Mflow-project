@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/end-to-end-Mflow-project/mlruns/0/44c943489fcf4313aaf49aac8146e7a5/artifacts
+end_time: 1720385197009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44c943489fcf4313aaf49aac8146e7a5
+run_name: bright-roo-918
+run_uuid: 44c943489fcf4313aaf49aac8146e7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720385184262
+status: 3
+tags: []
+user_id: kamra

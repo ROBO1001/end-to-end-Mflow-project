@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/end-to-end-Mflow-project/mlruns/0/cb44a174b643493ba9b4669e69adf711/artifacts
+end_time: 1720385244251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb44a174b643493ba9b4669e69adf711
+run_name: skillful-trout-572
+run_uuid: cb44a174b643493ba9b4669e69adf711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720385237466
+status: 3
+tags: []
+user_id: kamra
