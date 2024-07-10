@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/end-to-end-Mflow-project/mlruns/0/21dbb6859afa44119e36450777952f83/artifacts
+end_time: 1720387435994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21dbb6859afa44119e36450777952f83
+run_name: gaudy-calf-598
+run_uuid: 21dbb6859afa44119e36450777952f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720387426577
+status: 3
+tags: []
+user_id: kamra

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/end-to-end-Mflow-project/mlruns/0/e00e905fedf24ffe8a26479e0b70e286/artifacts
+end_time: 1720387797936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e00e905fedf24ffe8a26479e0b70e286
+run_name: flawless-wasp-362
+run_uuid: e00e905fedf24ffe8a26479e0b70e286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720387790511
+status: 3
+tags: []
+user_id: kamra

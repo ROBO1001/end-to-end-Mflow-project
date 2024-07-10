@@ -4,11 +4,11 @@ import zipfile
 from mlproject import logger
 from mlproject.utils.common import get_size
 from pathlib import Path
-from mlproject.entity.config_entity import DataIngestionconfig
+from mlproject.entity.config_entity import DataIngestionConfig
 
 
 class DataIngestion:
-    def __init__(self, config: DataIngestionconfig):
+    def __init__(self, config: DataIngestionConfig):
         self.config = config
 
 

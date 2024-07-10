@@ -1,5 +1,5 @@
 from mlproject.config.configuration import ConfigurationManager
-from mlproject.components.data_evaluation import DataValiadtion
+from mlproject.components.data_validation import DataValiadtion
 from mlproject import logger
 
 

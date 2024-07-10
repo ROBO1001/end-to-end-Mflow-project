@@ -3,9 +3,11 @@ from mlproject import logger
 from mlproject.entity.config_entity import DataValidationConfig
 import pandas as pd
 
+
 class DataValiadtion:
     def __init__(self, config: DataValidationConfig):
         self.config = config
+
 
     def validate_all_columns(self)-> bool:
         try:
@@ -31,3 +33,4 @@ class DataValiadtion:
         
         except Exception as e:
             raise e
+

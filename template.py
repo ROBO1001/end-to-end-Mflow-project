@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "mlproject"
+project_name = "mlProject"
 
 
 list_of_files = [
@@ -31,7 +31,11 @@ list_of_files = [
     "research/trials.ipynb",
     "templates/index.html",
     "test.py"
+
+
 ]
+
+
 
 
 for filepath in list_of_files:

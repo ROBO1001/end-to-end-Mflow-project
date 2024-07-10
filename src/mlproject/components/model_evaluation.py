@@ -11,7 +11,6 @@ from mlproject.utils.common import save_json
 from pathlib import Path
 
 
-
 class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
         self.config = config
@@ -65,3 +64,5 @@ class ModelEvaluation:
                 mlflow.sklearn.log_model(model, "model", registered_model_name="ElasticnetModel")
             else:
                 mlflow.sklearn.log_model(model, "model")
+
+    
